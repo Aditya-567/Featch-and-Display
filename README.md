@@ -6,4 +6,4 @@ npm install
 
 # Now run the Application
 
-npm run
+npm start
